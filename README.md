@@ -1,4 +1,4 @@
-# Smart Contract swapping Bitcoin for Avalance Atomically
+# Smart Contract swapping Bitcoin for Avalanche Atomically
 
 **Language**: Solidity <br/>
 **Date**: Jun 2023 <br/>
